@@ -1,0 +1,28 @@
+USAGE
+    ./my_defender
+GOAL OF THE GAME
+    You start with 500 coins, your goal is to                       ▄▄▄▄▄▄▄▄▄
+    kill the enemies and protect the castle which                   ▌▐░▀░▀░▀▐
+    is right after the castle's entry (bottom left                  ▌░▌░░░░░▐
+    corner).                                                        ▌░░░░░░░▐
+ENEMIES                                                             ▄▄▄▄▄▄▄▄▄
+    There are 4 types of enemies :                            ▄▀▀▀▀▀▌▄█▄░▄█▄▐▀▀▀▀▀▄
+                                                             █▒▒▒▒▒▐░░░░▄░░░░▌▒▒▒▒▒█
+    |  LVL  |      NAME     |    HP    |   VALUE   |        ▐▒▒▒▒▒▒▒▌░░░░░░░▐▒▒▒▒▒▒▒▌
+    |-------|---------------|----------|-----------|        ▐▒▒▒▒▒▒▒█░▀▀▀▀▀░█▒▒▒▒▒▒▒▌
+    | LVL 1 |  The Peasant  |  300  HP |  30 COINS |        ▐▒▒▒▒▒▒▒▒█▄▄▄▄▄█▒▒▒▒▒▒▒▒▌
+    | LVL 2 |  The Knight   |  600  HP |  60 COINS |        ▐▒▒▒▒▐▒▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▒▌
+    | LVL 3 |  The Zombie   |  900  HP |  90 COINS |        ▐▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▌
+    | LVL 4 |  The Alien    | 1200  HP | 120 COINS |        ▐▒▒▒▒▒▐▒▒▒▒▒▒▒▒▒▒▒▌▒▒▒▒▒▌
+TOWERS                                                      ▐▒▒▒▒▒▒▌▒▒▒▒▒▒▒▒▒▐▒▒▒▒▒▒▌
+    There are 4 types of towers :                           ▐▒▒▒▒▒▒▌▄▄▄▄▄▄▄▄▄▐▒▒▒▒▒▒▌
+                                                            ▐▄▄▄▄▄▄▌▌███████▌▐▄▄▄▄▄▄▌
+    |  LVL  |  DMG  |    PRICE   |                           █▀▀▀▀█ ▌███▌███▌ █▀▀▀▀█
+    |-------|-------|------------|                           ▐░░░░▌ ▌███▌███▌ ▐░░░░▌
+    | LVL 1 |  100  |  100 COINS |                            ▀▀▀▀  ▌███▌███▌  ▀▀▀▀
+    | LVL 2 |  200  |  250 COINS |                                  ▌███▌███▌
+    | LVL 3 |  300  |  500 COINS |                                  ▌███▌███▌
+    | LVL 4 |  500  |  700 COINS |                                ▐▀▀▀██▌█▀▀▀▌
+                                                            ▒▒▒▒▒▒▐▄▄▄▄▄▄▄▄▄▄▌▒▒▒▒▒▒▒
+
+PS : You can sell your towers by pressing 'S' with your mouse on :)
